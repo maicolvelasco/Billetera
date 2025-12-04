@@ -366,14 +366,6 @@ header('Content-Type: application/json');
 - [ ] Soporte multi-idioma
 - [ ] Integración con pasarelas de pago
 
-## 📞 Soporte
-
-Si encuentras problemas:
-
-1. Revisa los logs en `error_log`
-2. Consulta la sección "Solución de Problemas"
-3. Verifica que toda la configuración sea correcta
-
 ## 📄 Licencia
 
 Este proyecto es de uso interno para Duralit.
